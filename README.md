@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrnvRawat
-- 👀 I’m interested in Technogolies
+- 👀 I’m interested in Technologies
 - 🌱 I’m currently learning Web Development using react.
 
 <!---
